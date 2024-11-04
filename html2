@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="pract2.js"></script>
+	</head>
+	<body>
+		<label id="lbldispname">Name: </label>
+		<label id="lblfullname"></label>
+	</body>
+</html>
